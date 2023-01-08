@@ -1,0 +1,27 @@
+ python main.py ../preprocessing_useful/data/synch_data/ fcn
+ echo "Next"
+ python main.py ../preprocessing_useful/data/synch_data/ lstm
+ python main.py ../preprocessing_useful/data/synch_data/ rlstm
+ python main.py ../preprocessing_useful/data/synch_data/ blstm
+ python main.py ../preprocessing_useful/data/synch_data/ cnnlstm
+ python main.py ../preprocessing_useful/data/synch_data/ mlp
+ python main.py ../preprocessing_useful/data/synch_data/ tlenet
+ python main.py ../preprocessing_useful/data/synch_data/ lr
+ python main.py ../preprocessing_useful/data/synch_data/ knn
+ python main.py ../preprocessing_useful/data/synch_data/ dt
+ python main.py ../preprocessing_useful/data/synch_data/ svm
+ python main.py ../preprocessing_useful/data/synch_data/ rf
+ python main.py ../preprocessing_useful/data/synch_data/ gb
+ python main.py ../preprocessing_useful/data/synch_data_old/ fcn
+ python main.py ../preprocessing_useful/data/synch_data_old/ lstm
+ python main.py ../preprocessing_useful/data/synch_data_old/ rlstm
+ python main.py ../preprocessing_useful/data/synch_data_old/ blstm
+ python main.py ../preprocessing_useful/data/synch_data_old/ cnnlstm
+ python main.py ../preprocessing_useful/data/synch_data_old/ mlp
+ python main.py ../preprocessing_useful/data/synch_data_old/ tlenet
+ python main.py ../preprocessing_useful/data/synch_data_old/ lr
+ python main.py ../preprocessing_useful/data/synch_data_old/ knn
+ python main.py ../preprocessing_useful/data/synch_data_old/ dt
+ python main.py ../preprocessing_useful/data/synch_data_old/ svm
+ python main.py ../preprocessing_useful/data/synch_data_old/ rf
+ python main.py ../preprocessing_useful/data/synch_data_old/ gb
